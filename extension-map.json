@@ -1,0 +1,61 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-11-10",
+  "description": "Maps Chrome extension IDs to Firefox Add-on URLs for cross-browser extension syncing",
+  "mappings": {
+    "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
+      "name": "uBlock Origin",
+      "chromeId": "cjpalhdlnbpafiamejdnhcphjbkeiagm",
+      "firefoxUrl": "https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/",
+      "firefoxId": "uBlock0@raymondhill.net"
+    },
+    "nngceckbapebfimnlniiiahkandclblb": {
+      "name": "Bitwarden",
+      "chromeId": "nngceckbapebfimnlniiiahkandclblb",
+      "firefoxUrl": "https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/",
+      "firefoxId": "{446900e4-71c2-419f-a6a7-df9c091e268b}"
+    },
+    "oldceeleldhonbafppcapldpdifcinji": {
+      "name": "Grammarly",
+      "chromeId": "oldceeleldhonbafppcapldpdifcinji",
+      "firefoxUrl": "https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/",
+      "firefoxId": "87677a2c52b84ad3a151a4a72f5bd3c4@jetpack"
+    },
+    "gighmmpiobklfepjocnamgkkbiglidom": {
+      "name": "AdBlock",
+      "chromeId": "gighmmpiobklfepjocnamgkkbiglidom",
+      "firefoxUrl": "https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/",
+      "firefoxId": "jid1-NIfFY2CA8fy1tg@jetpack"
+    },
+    "mooikfkahbdckldjjndioackbalphokd": {
+      "name": "Selenium IDE",
+      "chromeId": "mooikfkahbdckldjjndioackbalphokd",
+      "firefoxUrl": "https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/",
+      "firefoxId": "{a6fd85ed-e919-4a43-a5af-8da18bda539f}"
+    },
+    "fihnjjcciajhdojfnbdddfaoknhalnja": {
+      "name": "I don't care about cookies",
+      "chromeId": "fihnjjcciajhdojfnbdddfaoknhalnja",
+      "firefoxUrl": "https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/",
+      "firefoxId": "jid1-KKzOGWgsW3Ao4Q@jetpack"
+    },
+    "eimadpbcbfnmbkopoojfekhnkhdbieeh": {
+      "name": "Dark Reader",
+      "chromeId": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+      "firefoxUrl": "https://addons.mozilla.org/en-US/firefox/addon/darkreader/",
+      "firefoxId": "addon@darkreader.org"
+    },
+    "hdokiejnpimakedhajhdlcegeplioahd": {
+      "name": "Lastpass",
+      "chromeId": "hdokiejnpimakedhajhdlcegeplioahd",
+      "firefoxUrl": "https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/",
+      "firefoxId": "support@lastpass.com"
+    },
+    "cofdbpoegempjloogbagkncekinflcnj": {
+      "name": "DeepL Translate",
+      "chromeId": "cofdbpoegempjloogbagkncekinflcnj",
+      "firefoxUrl": "https://addons.mozilla.org/en-US/firefox/addon/to-deepl/",
+      "firefoxId": "{036a55b4-5e72-4d05-a06c-cba2dfcc134a}"
+    }
+  }
+}
